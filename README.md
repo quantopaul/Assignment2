@@ -9,7 +9,7 @@ Input a number: 5
 The entered number is odd
 
 
-#Task 2:
+# Task 2:
 I used variable 'i' for storing the values from 1 to 50
 Then I used variable 'sum' to return the sum of all numbers from ! to 50
 
