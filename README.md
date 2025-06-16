@@ -10,8 +10,8 @@ The entered number is odd
 
 
 # Task 2:
-I used variable 'i' for storing the values from 1 to 50
-Then I used variable 'sum' to return the sum of all numbers from ! to 50
+I used variable 'i' for storing the values from 1 to 50 using range() function
+Then I used variable 'sum' to return the sum of all numbers from 1 to 50
 
 Output:
 The sum of all nos. from 1 to 50 = 1275
